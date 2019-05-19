@@ -17,3 +17,7 @@ Usage
 1. `docker run -d --rm --name ibgateway -e ARGS="username=IB_USERNAME password=IB_PASSWORD" -p 5900:5900 -p 7496:7496 -p 7497:7497 ibgateway`
 
 If paper trading, a 'return' keystroke will be sent after 15s to skip the warning dialog.
+
+---
+
+<img src="https://ryanclouser.com/images/trading/ibgateway.png">
